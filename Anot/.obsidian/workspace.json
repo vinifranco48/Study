@@ -11,14 +11,9 @@
             "id": "1b0ea8e5b0905d95",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Credit risk/Credit Risk.canvas",
-                "viewState": {
-                  "x": -540,
-                  "y": -880,
-                  "zoom": 0
-                }
+                "file": "Artigos/Credit Risk Modelagem.pdf"
               }
             }
           }
@@ -88,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit risk/Credit Risk.canvas",
+                "file": "Artigos/Credit Risk Modelagem.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Credit risk/Credit Risk.canvas",
+                "file": "Artigos/Credit Risk Modelagem.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit risk/Credit Risk.canvas"
+                "file": "Artigos/Credit Risk Modelagem.pdf"
               }
             }
           },
@@ -162,9 +157,11 @@
   },
   "active": "1b0ea8e5b0905d95",
   "lastOpenFiles": [
-    "Credit risk/risk.excalidraw",
     "Credit risk/Credit Risk.canvas",
+    "Artigos/Credit Risk Modelagem.pdf",
     "Credit risk/Credit Risk - Conceitos & modelos.md",
+    "Artigos",
+    "Credit risk/risk.excalidraw",
     "Sem título-2024-09-08-1554 (1).excalidraw",
     "Credit risk/Sem título-2024-09-08-1554 (1) 1.excalidraw",
     "Untitled.md",
