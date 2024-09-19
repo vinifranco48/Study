@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "95271c4f3af37eac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b173e1417a95baed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b0ea8e5b0905d95",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Credit risk/Credit Risk.canvas",
+                "viewState": {
+                  "x": -540,
+                  "y": -880,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "594e35088c166cc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf888535ae4f89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b85f7ca176ae25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e086f994d5d985a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41a4df6f2213208f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eba5cfca988be198",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5062ee92fe26483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1f0eba94d0cd46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Credit risk/Credit Risk.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe92d734f733824d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Credit risk/Credit Risk.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "880430a1e9ea04cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e781a5f7b062581",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Credit risk/Credit Risk.canvas"
+              }
+            }
+          },
+          {
+            "id": "009a269028eb67e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1b0ea8e5b0905d95",
+  "lastOpenFiles": [
+    "Credit risk/risk.excalidraw",
+    "Credit risk/Credit Risk.canvas",
+    "Credit risk/Credit Risk - Conceitos & modelos.md",
+    "Sem título-2024-09-08-1554 (1).excalidraw",
+    "Credit risk/Sem título-2024-09-08-1554 (1) 1.excalidraw",
+    "Untitled.md",
+    "Credit risk",
+    "Welcome.md"
+  ]
+}
