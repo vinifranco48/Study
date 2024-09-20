@@ -15,9 +15,9 @@
               "state": {
                 "file": "Credit risk/Credit Risk.canvas",
                 "viewState": {
-                  "x": -555.6153846153846,
-                  "y": -686.3931380051833,
-                  "zoom": -0.2614922410253883
+                  "x": -651.0389687953851,
+                  "y": -661.6713675213675,
+                  "zoom": -0.38867232150656217
                 }
               }
             }
@@ -162,9 +162,10 @@
   },
   "active": "1b0ea8e5b0905d95",
   "lastOpenFiles": [
-    "Artigos/Credit Risk Modelagem.pdf",
-    "Credit risk/Credit Risk.canvas",
     "Credit risk/Credit Risk - Conceitos & modelos.md",
+    "Artigos/risk_evaluation.pdf",
+    "Credit risk/Credit Risk.canvas",
+    "Artigos/Credit Risk Modelagem.pdf",
     "Credit risk/risk.excalidraw",
     "Artigos",
     "Sem título-2024-09-08-1554 (1).excalidraw",

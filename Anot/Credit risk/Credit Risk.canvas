@@ -1,17 +1,19 @@
 {
 	"nodes":[
 		{"id":"b83ea23aa5fa2bdb","type":"text","text":"Credit Risk\n","x":-710,"y":-825,"width":150,"height":50,"color":"4"},
-		{"id":"26d028cda369cc32","type":"text","text":"Mapas Mentais","x":-898,"y":-700,"width":188,"height":50,"color":"4"},
-		{"id":"644b9aab27058098","type":"text","text":"Machine learning-credit risk","x":-769,"y":-940,"width":268,"height":55,"color":"4"},
-		{"id":"47178ffe2573e317","type":"text","text":"***Conceitos Introdutórios*** \n![[risk.excalidraw]]","x":-1080,"y":-580,"width":240,"height":160,"color":"2"},
 		{"id":"3e57e5e54d6832a9","type":"text","text":"[[Credit Risk Modelagem.pdf]]","x":-320,"y":-825,"width":260,"height":50,"color":"3"},
-		{"id":"9ffcf6c0d63cf26c","type":"text","text":"Artigos","x":-520,"y":-705,"width":120,"height":60,"color":"4"}
+		{"id":"644b9aab27058098","type":"text","text":"Machine learning-credit risk","x":-769,"y":-940,"width":269,"height":50,"color":"4"},
+		{"id":"4e45b9a4aa312019","x":-257,"y":-667,"width":197,"height":50,"color":"3","type":"text","text":"\n[[risk_evaluation.pdf]]"},
+		{"id":"9ffcf6c0d63cf26c","type":"text","text":"Artigos","x":-520,"y":-705,"width":120,"height":60,"color":"4"},
+		{"id":"26d028cda369cc32","type":"text","text":"Mapas Mentais","x":-934,"y":-700,"width":188,"height":50,"color":"4"},
+		{"id":"47178ffe2573e317","type":"text","text":"***Conceitos Introdutórios*** \n![[risk.excalidraw]]","x":-1174,"y":-580,"width":240,"height":160,"color":"2"}
 	],
 	"edges":[
 		{"id":"6ec85426606398e3","fromNode":"b83ea23aa5fa2bdb","fromSide":"bottom","toNode":"26d028cda369cc32","toSide":"top","color":"4"},
 		{"id":"cde13c9d89a44f26","fromNode":"b83ea23aa5fa2bdb","fromSide":"top","toNode":"644b9aab27058098","toSide":"bottom","color":"4"},
 		{"id":"e4cd8b28da891836","fromNode":"9ffcf6c0d63cf26c","fromSide":"right","toNode":"3e57e5e54d6832a9","toSide":"left","color":"3"},
 		{"id":"a3ac5e00cc254c90","fromNode":"b83ea23aa5fa2bdb","fromSide":"bottom","toNode":"9ffcf6c0d63cf26c","toSide":"top","color":"4"},
-		{"id":"9dd998def029c3a6","fromNode":"26d028cda369cc32","fromSide":"bottom","toNode":"47178ffe2573e317","toSide":"top","color":"2"}
+		{"id":"9dd998def029c3a6","fromNode":"26d028cda369cc32","fromSide":"bottom","toNode":"47178ffe2573e317","toSide":"top","color":"2"},
+		{"id":"da2767e6913f4c98","fromNode":"9ffcf6c0d63cf26c","fromSide":"right","toNode":"4e45b9a4aa312019","toSide":"left","color":"3"}
 	]
 }
