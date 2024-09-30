@@ -1,37 +1,60 @@
 {
   "main": {
-    "id": "95271c4f3af37eac",
+    "id": "9d99ad515f8c80d1",
     "type": "split",
     "children": [
       {
-        "id": "b173e1417a95baed",
+        "id": "a14ee47ba5ff20d5",
         "type": "tabs",
         "children": [
           {
-            "id": "1b0ea8e5b0905d95",
+            "id": "fbcb8b5b4e80d696",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Artigos/Credit Risk Modelagem.pdf"
+                "file": "Machine Learning/LLMs/Probabilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d9fe34b1bc2a9bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Machine Learning/LLMs/Drawing 2024-09-26 19.23.18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ab0d6609c6023401",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "594e35088c166cc9",
+    "id": "81091d69849edad6",
     "type": "split",
     "children": [
       {
-        "id": "edf888535ae4f89f",
+        "id": "566a18b97cc6a139",
         "type": "tabs",
         "children": [
           {
-            "id": "37b85f7ca176ae25",
+            "id": "01aecb93b064c566",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +64,7 @@
             }
           },
           {
-            "id": "3e086f994d5d985a",
+            "id": "80a5365d3f66915b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +79,7 @@
             }
           },
           {
-            "id": "41a4df6f2213208f",
+            "id": "3ad89e584501f1fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,23 +90,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "eba5cfca988be198",
+    "id": "406605219d8916a3",
     "type": "split",
     "children": [
       {
-        "id": "f5062ee92fe26483",
+        "id": "4dddc262d35ff075",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1f0eba94d0cd46",
+            "id": "8194ab8cf5ce7fbd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artigos/Credit Risk Modelagem.pdf",
+                "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +119,19 @@
             }
           },
           {
-            "id": "fe92d734f733824d",
+            "id": "bee80b3fff76c545",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artigos/Credit Risk Modelagem.pdf",
+                "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "880430a1e9ea04cd",
+            "id": "e36b1121f55abdf5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,29 +142,20 @@
             }
           },
           {
-            "id": "1e781a5f7b062581",
+            "id": "1aeb98987aaf31df",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artigos/Credit Risk Modelagem.pdf"
+                "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "009a269028eb67e1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,21 +166,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b0ea8e5b0905d95",
+  "active": "01aecb93b064c566",
   "lastOpenFiles": [
+    "Machine Learning/LLMs/Drawing 2024-09-26 19.23.18.excalidraw.md",
+    "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
+    "Machine Learning/analise",
+    "Machine Learning/LLMs/Probabilidade.md",
+    "Excalidraw",
     "Credit risk/Credit Risk.canvas",
-    "Artigos/Credit Risk Modelagem.pdf",
-    "Credit risk/Credit Risk - Conceitos & modelos.md",
-    "Artigos",
+    "Machine Learning/LLMs",
+    "Machine Learning",
     "Credit risk/risk.excalidraw",
-    "Sem título-2024-09-08-1554 (1).excalidraw",
-    "Credit risk/Sem título-2024-09-08-1554 (1) 1.excalidraw",
-    "Untitled.md",
+    "Study/Anot/Credit risk/Credit Risk.canvas",
+    "Credit risk/Credit Risk - Conceitos & modelos.md",
+    "Artigos/risk_evaluation.pdf",
+    "Artigos/Credit Risk Modelagem.pdf",
     "Credit risk",
-    "Welcome.md"
+    "Artigos",
+    "Anot",
+    "Study/Anot/Credit risk/Credit Risk - Conceitos & modelos.md"
   ]
 }
