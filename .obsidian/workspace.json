@@ -11,6 +11,7 @@
             "id": "fbcb8b5b4e80d696",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
               "type": "markdown",
               "state": {
                 "file": "Machine Learning/LLMs/Probabilidade.md",
@@ -36,6 +37,16 @@
               "type": "excalidraw",
               "state": {
                 "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md"
+=======
+              "type": "canvas",
+              "state": {
+                "file": "Credit risk/Credit Risk.canvas",
+                "viewState": {
+                  "x": -651.0389687953851,
+                  "y": -661.6713675213675,
+                  "zoom": -0.38867232150656217
+                }
+>>>>>>> origin/main:Anot/.obsidian/workspace.json
               }
             }
           }
@@ -107,7 +118,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
+=======
+                "file": "Credit risk/Credit Risk.canvas",
+>>>>>>> origin/main:Anot/.obsidian/workspace.json
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
+=======
+                "file": "Credit risk/Credit Risk.canvas",
+>>>>>>> origin/main:Anot/.obsidian/workspace.json
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +166,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD:.obsidian/workspace.json
                 "file": "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md"
+=======
+                "file": "Credit risk/Credit Risk.canvas"
+>>>>>>> origin/main:Anot/.obsidian/workspace.json
               }
             }
           }
@@ -171,6 +194,7 @@
   },
   "active": "01aecb93b064c566",
   "lastOpenFiles": [
+<<<<<<< HEAD:.obsidian/workspace.json
     "Machine Learning/LLMs/Drawing 2024-09-26 19.23.18.excalidraw.md",
     "Machine Learning/analise/Drawing 2024-09-29 19.06.32.excalidraw.md",
     "Machine Learning/analise",
@@ -184,6 +208,17 @@
     "Credit risk/Credit Risk - Conceitos & modelos.md",
     "Artigos/risk_evaluation.pdf",
     "Artigos/Credit Risk Modelagem.pdf",
+=======
+    "Credit risk/Credit Risk - Conceitos & modelos.md",
+    "Artigos/risk_evaluation.pdf",
+    "Credit risk/Credit Risk.canvas",
+    "Artigos/Credit Risk Modelagem.pdf",
+    "Credit risk/risk.excalidraw",
+    "Artigos",
+    "Sem título-2024-09-08-1554 (1).excalidraw",
+    "Credit risk/Sem título-2024-09-08-1554 (1) 1.excalidraw",
+    "Untitled.md",
+>>>>>>> origin/main:Anot/.obsidian/workspace.json
     "Credit risk",
     "Artigos",
     "Anot",
