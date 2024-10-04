@@ -7,7 +7,7 @@
 		{"id":"47178ffe2573e317","type":"text","text":"***Conceitos Introdutórios*** \n![[risk.excalidraw]]","x":-1280,"y":-717,"width":280,"height":180,"color":"2"},
 		{"id":"3e57e5e54d6832a9","type":"text","text":"[[Credit Risk Modelagem.pdf]]","x":-220,"y":-865,"width":260,"height":65,"color":"3"},
 		{"id":"4e45b9a4aa312019","type":"text","text":"\n[[risk_evaluation.pdf]]","x":-157,"y":-707,"width":197,"height":50,"color":"3"},
-		{"id":"8a038b9a265743af","x":-1280,"y":-1340,"width":260,"height":127,"color":"1","type":"text","text":"- [ ] Ler artigos\n- [ ] Modelar PD\n- [ ] Criar Analise Orange\n"}
+		{"id":"8a038b9a265743af","type":"text","text":"- [ ] Ler artigos\n- [ ] Modelar PD\n- [ ] Criar Analise Orange\n","x":-1400,"y":-1400,"width":300,"height":127,"color":"1"}
 	],
 	"edges":[
 		{"id":"6ec85426606398e3","fromNode":"b83ea23aa5fa2bdb","fromSide":"bottom","toNode":"26d028cda369cc32","toSide":"top","color":"4"},
